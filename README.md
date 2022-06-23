@@ -1,2 +1,2 @@
 # Material-Properties
-Description of common industrial materials
+Material properties of common industrial materials
