@@ -1,2 +1,2 @@
-display_name;material_type;din;eu;afnor;us;other;re_min;re_max;rm_min;rm_max;young_modulus;a;state;corrosion_resistance;anodizing_capacity;welding;machining;extension_capacity;ce_compliant;billet;plate;tubes;additive_manufacturing;price;procurable;catia_name;catia_family;Item Type
-105OA;ALUMINUM;3.0255;105OA;3.3535;A5;1050;30;30;80;80;75;25;O;A;A;A;C;A;TRUE;FALSE;FALSE;FALSE;FALSE; -   € ;TRUE;Aluminium;Metal;Item
+display_name,material_type,din,eu,afnor,us,other,re_min,re_max,rm_min,rm_max,young_modulus,a,state,corrosion_resistance,anodizing_capacity,welding,machining,extension_capacity,ce_compliant,billet,plate,tubes,additive_manufacturing,price,procurable,catia_name,catia_family,Item Type
+105OA,ALUMINUM,3.0255,105OA,3.3535,A5,1050,30,30,80,80,75,25,O,A,A,A,C,A,TRUE,FALSE,FALSE,FALSE,FALSE, -   € ,TRUE,Aluminium,Metal,Item
